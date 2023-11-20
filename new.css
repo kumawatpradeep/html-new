@@ -1,0 +1,165 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main {
+    background-color: black;
+    padding: 50px;
+}
+
+#header  {
+    background-image: url(./header.jpg);
+}
+
+
+
+
+
+#header .main ul li {
+    display: inline;
+    font-size: 20px;
+    padding: 50px 91px;
+    color: white;
+
+}
+
+.text {
+    text-align: center;
+    padding: 250px;
+    color: white;
+
+}
+
+.text h1 {
+    margin-bottom: 10px;
+    font-family: math;
+    margin-top: 70px;
+    font-size: 55px;
+}
+
+.text button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    width: 20%;
+    border-style: double;
+    border-color: white;
+    background: top;
+    color: white;
+}
+
+.text button:hover {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    width: 20%;
+    border-style: double;
+    border-color: white;
+    background: top;
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+}
+
+#page2 {
+    text-align: center;
+    padding: 80px;
+    background-color: black;
+    color: white;
+
+}
+
+#page2 h1 {
+    font-size: 44px;
+
+}
+
+#page2 p {
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-top: 10px;
+}
+
+#page3 .img {
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+
+
+}
+
+#page3 {
+    background-color: black;
+}
+
+#page3 .img img {
+    width: 30%;
+
+}
+
+#page3 a {
+    padding-left: 650px;
+    color: white;
+
+}
+#page4 .img2{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    
+
+}
+#page4{
+
+    padding: 55px;
+    background-color: black;
+}
+
+#page4 .img2 img{
+    width: 80%;
+
+    }
+    #page4  .imgt{
+        text-align: center;
+        color: antiquewhite;
+    }
+     .imgt p{
+        padding-left: 100px;
+        padding-right: 100px;
+        margin-top: 11px;
+    }
+    .imgt h1{
+        font-size: 33px;
+    } 
+    #page4 h4  {
+        text-align: center;
+       
+        margin-top: 44px;
+
+    }
+    #page4 h4 a{
+        color: aliceblue;
+    }
+    #fouter{
+        text-align: center;
+    
+    }
+    #fouter{
+        background-color: black;
+        color: white;
+        font-size: 22px;
+    }
+    
+   #fouter h1{
+        font-size: 40px;
+        
+
+    }
+    #fouter input{
+        padding: 11px;
+        width: 50%;
+        margin-top: 15px;
+    }
+    #fouter p input{
+        height: 88px;
+    }
